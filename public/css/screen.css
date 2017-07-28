@@ -259,7 +259,7 @@ section {
 .collection .col-3-a .cow {
   position: relative;
   background-image: url(img/6g.jpg);
-	background-color: #b0b0d9;
+	background-color: #d1d1d1;
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -289,7 +289,7 @@ section {
 .collection .col-3-b .pic1 {
   position: relative;
   background-image: url(img/3f.jpg);
-	background-color: #b0b0d9;
+	background-color: #d1d1d1;
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -299,7 +299,7 @@ section {
 .collection .col-3-b .pic2 {
   position: relative;
   background-image: url(img/3g.jpg);
-	background-color: #b0b0d9;
+	background-color: #d1d1d1;
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
